@@ -1,6 +1,9 @@
 
 export default {
   mode: 'spa',
+  router: {
+    base: '/nuxt-gh-pages/'
+  },
   /*
   ** Headers of the page
   */
